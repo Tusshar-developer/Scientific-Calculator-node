@@ -1,0 +1,23 @@
+{
+  "name": "scientific-calculator-node-server",
+  "version": "1.0.0",
+  "description": "This is a scientific calculator made in a node web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tusshar-developer/Scientific-Calculator-node.git"
+  },
+  "author": "Tusshar-developer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tusshar-developer/Scientific-Calculator-node/issues"
+  },
+  "homepage": "https://github.com/Tusshar-developer/Scientific-Calculator-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
